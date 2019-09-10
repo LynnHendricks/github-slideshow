@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Commit this file change - somthing witty :)
 use the left arrow to go back
